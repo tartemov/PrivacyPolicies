@@ -37,7 +37,7 @@ I may employ third-party companies and individuals due to the following reasons:
 * To perform Service-related services; or
 * To assist us in analyzing how my Service is used.
 
-I want to inform my Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+I want to inform my Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
 ## Security
 
@@ -47,7 +47,7 @@ I value your trust in providing me your Personal Information, thus I am striving
 
 My Service may contain links to other apps and sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-## Children’s Privacy<
+## Children’s Privacy
 
 My Services do not address anyone under the age of 13. I do not knowingly collect personal identifiable information from children under 13. In the case I discover that a child under 13 has provided us with personal information, I immediately delete this from my servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that we will be able to do necessary actions.
 
